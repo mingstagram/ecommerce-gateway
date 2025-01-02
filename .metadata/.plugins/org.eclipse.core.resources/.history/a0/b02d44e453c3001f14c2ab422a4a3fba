@@ -1,0 +1,10 @@
+package snippet;
+
+public class Snippet {
+	# 1단계: Maven 빌드 단계
+	FROM maven:3.9.3-openjdk-17 AS build
+	WORKDIR /app
+	COPY . .
+	RUN mvn clean 
+}
+

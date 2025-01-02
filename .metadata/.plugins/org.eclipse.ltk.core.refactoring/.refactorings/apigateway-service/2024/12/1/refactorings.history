@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;apigateway-service/Dockerfile&apos; to &apos;Dockerfile_temp&apos;" description="Rename resource &apos;Dockerfile&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="Dockerfile" name="Dockerfile_temp" stamp="1735625399968" updateReferences="true"/>
+</session>
